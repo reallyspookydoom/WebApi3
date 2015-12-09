@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleCli
 		{AE6AE642-B25C-4B0E-AF39-8AE02FA43EFD} = {AE6AE642-B25C-4B0E-AF39-8AE02FA43EFD}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{13984EFF-52A9-4C9D-A7A0-A36FA7467EA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{5DEF1326-671E-4194-9B2C-DBAF17D64B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DEF1326-671E-4194-9B2C-DBAF17D64B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DEF1326-671E-4194-9B2C-DBAF17D64B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13984EFF-52A9-4C9D-A7A0-A36FA7467EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13984EFF-52A9-4C9D-A7A0-A36FA7467EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13984EFF-52A9-4C9D-A7A0-A36FA7467EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13984EFF-52A9-4C9D-A7A0-A36FA7467EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

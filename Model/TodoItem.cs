@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ConsoleClient
+namespace Model
 {
     public class TodoItem
     {

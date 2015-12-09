@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.Mvc;
+using Model;
 using System.Collections.Generic;
 using WebApi3.Models;
 

@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net40": {
+      "wrappedProject": "../../Model/Model.csproj",
+      "bin": {
+        "assembly": "../../Model/obj/{configuration}/Model.dll",
+        "pdb": "../../Model/obj/{configuration}/Model.pdb"
+      },
+      "dependencies": {
+        "System.Net.Http": "1.0.0-*"
+      }
+    },
+    "net45": {
+      "wrappedProject": "../../Model/Model.csproj",
+      "bin": {
+        "assembly": "../../Model/obj/{configuration}/Model.dll",
+        "pdb": "../../Model/obj/{configuration}/Model.pdb"
+      }
+    }
+  }
+}

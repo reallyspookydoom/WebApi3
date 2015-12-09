@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{29EB3B91-3445-43F2-B352-CE5FA06C1268}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5883147B-F661-4E36-B32B-1177B5D597E5}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
@@ -46,8 +44,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{AE6AE642-B25C-4B0E-AF39-8AE02FA43EFD} = {29EB3B91-3445-43F2-B352-CE5FA06C1268}
 	EndGlobalSection
 EndGlobal
